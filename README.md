@@ -8,10 +8,10 @@ Dynamic HTML and CSS only code.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=aCV_70A3t5E)
 
-I hope you like it, code it and [watch it](https://gustavolando.github.io/otPureCSSTextRevealFromSmokeAnimationEffect/)!
+I hope you like it, code it and [watch it](https://gustavolando.github.io/otCSSAnimationnHoverEffects/)!
 
 ![CSS Animation & Hover]otCSSAnimationnHoverEffects/CSS Animation%20&%20Hover%20Effects%201.png)
 
 ![CSS Animation & Hover]otCSSAnimationnHoverEffects/CSS Animation%20&%20Hover%20Effects%202.png)
 
-Here is the animation demo link:  https://gustavolando.github.io/otPureCSSTextRevealFromSmokeAnimationEffect/
+Here is the animation demo link:  https://gustavolando.github.io/otCSSAnimationnHoverEffects/
